@@ -1,0 +1,8 @@
+optOut: false
+lastUpdateCheck: 1399776372309
+update: 
+  latest: 1.0.17
+  current: 1.0.15
+  type: patch
+  date: "2014-03-20T12:27:16.691Z"
+  name: nodemon

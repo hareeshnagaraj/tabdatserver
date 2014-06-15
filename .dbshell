@@ -1,0 +1,64 @@
+mongod
+db
+show dbs
+use mydb
+show dbs
+db
+j = { name: "mongo" }
+k = {x : 3}
+show collections
+db.testData.insert(j)
+show collections
+db.testData.insert(k)
+show collections
+db.testData.find()
+ls
+show db
+show
+show collections
+db
+use mydb
+j = { name : "mongo" }
+k = { x : 3 }
+show collections
+db
+db.testData.insert( j )
+db.testData.insert( k )
+db.testData.find()
+db
+show dbs
+use mydb
+show collecitons
+show collections
+testData.find()
+testData.find();
+db.testData.find();
+db
+show collections
+db
+ls
+show collections
+testData.find()
+for (var i = 1; i <= 25; i++) db.testData.insert( { x : i } )
+testData.find()
+show collections
+testData.find();
+db.testData.find()
+db
+show dbs
+db mydb
+mydb
+use mydb
+show collections
+system.indexes.find()
+system.indexes.find();
+db.system.indexes.find();
+db.testData.find();
+it
+show dbs
+db mydb
+use mydb
+show collections
+db.testData.find();
+it
+quit

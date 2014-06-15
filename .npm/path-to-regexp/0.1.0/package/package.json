@@ -1,0 +1,18 @@
+{
+  "name": "path-to-regexp",
+  "description": "Express style path to RegExp utility",
+  "version": "0.1.0",
+  "keywords": [
+    "express",
+    "regexp"
+  ],
+  "component": {
+    "scripts": {
+      "path-to-regexp": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/path-to-regexp.git"
+  }
+}

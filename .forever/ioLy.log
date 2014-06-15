@@ -1,0 +1,25 @@
+Express server listening on port 3000
+[90mGET / [36m304 [90m503ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET / [36m304 [90m22ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m25ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m30ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m11ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+error: Forever detected script was killed by signal: SIGKILL
+error: Forever restarting script for 1 time
+Express server listening on port 3000
+[90mGET / [36m304 [90m479ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET / [32m200 [90m21ms - 170b[0m
+[90mGET / [32m200 [90m55ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m10ms - 110b[0m
+[90mGET / [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
