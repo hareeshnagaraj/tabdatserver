@@ -30,11 +30,21 @@
 	
 
 # File marks:
-'0  13  67  /etc/rc.local
-'1  1  1  /etc/apt/sources.list
-'2  124  0  /etc/apt/sources.list
+'0  1  13  ~/.ssh/id_rsa.pub
+'1  13  67  /etc/rc.local
+'2  1  1  /etc/apt/sources.list
+'3  124  0  /etc/apt/sources.list
 
 # Jumplist (newest first):
+-'  1  13  ~/.ssh/id_rsa.pub
+-'  13  67  /etc/rc.local
+-'  1  0  /etc/rc.local
+-'  1  1  /etc/apt/sources.list
+-'  124  0  /etc/apt/sources.list
+-'  39  0  /etc/apt/sources.list
+-'  1  1  /etc/apt/sources.list
+-'  124  0  /etc/apt/sources.list
+-'  39  0  /etc/apt/sources.list
 -'  13  67  /etc/rc.local
 -'  1  0  /etc/rc.local
 -'  1  1  /etc/apt/sources.list
@@ -45,6 +55,11 @@
 -'  39  0  /etc/apt/sources.list
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	"	1	13
+	.	1	13
+	+	1	13
 
 > /etc/rc.local
 	"	13	67
